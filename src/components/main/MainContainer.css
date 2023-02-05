@@ -120,7 +120,7 @@ width: 100%;
 
 @media(min-width:650px){
     main{
-        width: clamp(630px,85%,900px);
+        width: clamp(630px,85%,700px);
     }
     h2{
         
