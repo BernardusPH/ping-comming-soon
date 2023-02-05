@@ -1,6 +1,6 @@
-import MainContent from "./MainContent";
-import MainImage from "./MainImage";
-import MainFooter from "./MainFooter";
+import MainContent from "./MainContent.jsx";
+import MainImage from "./MainImage.jsx";
+import MainFooter from "./MainFooter.jsx";
 import "./MainContainer.css"
 
 function MainContainer() {
